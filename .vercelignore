@@ -1,0 +1,5 @@
+dist
+baseline
+test
+.vercel
+node_modules

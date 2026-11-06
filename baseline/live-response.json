@@ -1,0 +1,23 @@
+{
+  "url": "https://suite-desk-install.vercel.app/",
+  "observedAt": "2026-11-06T23:21:25Z",
+  "httpStatus": 200,
+  "contentLength": 1129,
+  "sha256": "69fe3d30a8cc28c3bb743e8341bce06a7504fd21971ef0ae36a853b58f49ec33",
+  "etag": "561ac3999e929dd3df8d68faf63c17d5",
+  "contentType": "text/html; charset=utf-8",
+  "cache": "HIT",
+  "lastModifiedEqualsFetchTime": true,
+  "publicSrcIndexStatus": 404,
+  "previewUrl": "https://suite-desk-install-hqlcj2m1a-majorturkey.vercel.app/",
+  "previewAccess": "Vercel Authentication challenge. The preview body was not fetched.",
+  "claimedDeploymentId": "dpl_DWYzy3VLYcmRRoBPJjpU7cdKGtyY",
+  "claimedSourceFile": "src/index.html",
+  "claimedSourceFileId": "UID026ceac6b689384ca600809f20eb9bcb3452d9c8",
+  "sourceFileRead": false,
+  "api": "GET /v9/projects/prj_It6b1DpRq1ZTeKyfyeWeCKjyfyta, GET /v13/deployments/dpl_DWYzy3VLYcmRRoBPJjpU7cdKGtyY, and GET /v6/deployments/dpl_DWYzy3VLYcmRRoBPJjpU7cdKGtyY/files returned 403 for scope majorturkey. get_team was not called. No re-authentication was attempted.",
+  "repoCommit": "21d3e63390365739454de7f3bc244df0c645d5cf",
+  "repoIndexSha256": "60befe9b490519e7ac3023f44bbffd9e460acfb943883dbaced6f96e8e34f990",
+  "repoIndexBytes": 769,
+  "provenance": "The public production HTML is the landing baseline. This repository commit is a different Windows-only page linking to the v1.0.0 installer. No deployment commit or linked repository was proven."
+}

@@ -1,0 +1,53 @@
+{
+  "service": "suite-desk-install",
+  "assets": [
+    {
+      "tag": "v1.3.1",
+      "name": "suite-desk_1.3.0_amd64.deb",
+      "bytes": 77408588,
+      "sha256": "196bfe94270b7eb390ce4f92eab77e003c84c7e95e2496588ae2616609097916",
+      "url": "https://github.com/MajorTurkey/suite-desk-download/releases/download/v1.3.1/suite-desk_1.3.0_amd64.deb",
+      "path": "/downloads/suite-desk_1.3.0_amd64.deb",
+      "contentType": "application/vnd.debian.binary-package"
+    },
+    {
+      "tag": "v1.2.0",
+      "name": "Suite-Desk.exe",
+      "bytes": 127400666,
+      "sha256": "332afd72903270f2cf34f7119cc55fa1c6285710a6e6d04fc0a164a4463fe831",
+      "url": "https://github.com/MajorTurkey/suite-desk-download/releases/download/v1.2.0/Suite-Desk.exe",
+      "path": "/downloads/Suite-Desk.exe",
+      "contentType": "application/vnd.microsoft.portable-executable"
+    }
+  ],
+  "preservedGithubReleases": [
+    {
+      "tag": "v1.0.0",
+      "name": "Suite-Desk.exe",
+      "bytes": 74246384,
+      "sha256": "f7d78d1c4898d8c51e055c4de265c99e9a55d6ade5bedab6220ec21e6c590948",
+      "url": "https://github.com/MajorTurkey/suite-desk-download/releases/download/v1.0.0/Suite-Desk.exe"
+    },
+    {
+      "tag": "v1.1.0",
+      "name": "Suite-Desk-Windows.zip",
+      "bytes": 127381202,
+      "sha256": "4333b08bc61f349280a5f5cf43664948536d056f2c43338edd28894644f97639",
+      "url": "https://github.com/MajorTurkey/suite-desk-download/releases/download/v1.1.0/Suite-Desk-Windows.zip"
+    },
+    {
+      "tag": "v1.3.0",
+      "name": "Suite-Desk-Linux.tar.gz",
+      "bytes": 105926096,
+      "sha256": "563ba13815795bc4ced12b89d2d764c2d58c953906a38f2980fd9255411162ba",
+      "url": "https://github.com/MajorTurkey/suite-desk-download/releases/download/v1.3.0/Suite-Desk-Linux.tar.gz"
+    },
+    {
+      "tag": "v1.3.1",
+      "name": "suite-desk-icon.png",
+      "bytes": 260714,
+      "sha256": "261669be9bfd199570be4b40e935107d00cb2c2a9930ec9a2d9df5d432a95b1c",
+      "url": "https://github.com/MajorTurkey/suite-desk-download/releases/download/v1.3.1/suite-desk-icon.png"
+    }
+  ]
+}

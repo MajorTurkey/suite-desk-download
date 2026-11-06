@@ -1,0 +1,13 @@
+{
+  "name": "suite-desk-install",
+  "private": true,
+  "description": "Suite Desk installer landing and checksum-pinned same-origin downloads.",
+  "type": "module",
+  "scripts": {
+    "prepare-static": "node scripts/prepare-static.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
